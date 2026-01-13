@@ -1,4 +1,4 @@
-# Youtube-Video-Downloader
+# Youtube Audio Downloader
 
 ## Setting up Virtual Environment
 ```bash
@@ -10,8 +10,6 @@ git clone -commit hash
 pip install -r requirements.txt
 ```
 
-#### You are set to develop amazing new features 🙂
-
 ### Main Dependencies
-* pytube
-* pymovie
+* pytubefix
+* pydub
